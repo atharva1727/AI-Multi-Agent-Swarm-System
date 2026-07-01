@@ -7,7 +7,7 @@ AI-powered multi-agent workflow automation system using Kanban-based task orches
 
 ### AI-Powered Multi-Agent Platform for Kanban-Based Task Orchestration
 
-<img src="assets/banner.png" alt="Multi-Agent Swarm System Banner" width="100%"/>
+<img src="https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/banner.png" alt="Multi-Agent Swarm System Banner" width="100%"/>
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-1C3C3C?style=flat-square)](https://www.langchain.com/langgraph)
