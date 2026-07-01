@@ -46,7 +46,7 @@ Built to solve a simple but real problem: **manually assigning tasks and trackin
 
 <p align="center">
   <img src="https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/kanban-board.png" width="48%" alt="Kanban Board"/>
-  <img src="assets/screenshots/workflow-execution.png" width="48%" alt="Workflow Execution"/>
+  <img src="https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/workflow-execution.png" width="48%" alt="Workflow Execution"/>
 </p>
 
 <p align="center"><i>Live Kanban board with agent-assigned tasks · Automated workflow execution pipeline</i></p>
