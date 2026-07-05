@@ -187,7 +187,7 @@ New Task Submitted
        (Triggers unblock of dependent tasks)
 ```
 
-![Multi-Agent Swarm System ](https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/banner.png)
+![Multi-Agent Swarm System ](https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/workflow-execution.png)
 
 
 **Step-by-step:**
