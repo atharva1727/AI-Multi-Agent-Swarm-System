@@ -3,7 +3,7 @@ AI-powered multi-agent workflow automation system using Kanban-based task orches
 
 <div align="center">
 
-![Multi-Agent Swarm System Banner](mas_banner.png)
+![Multi-Agent Swarm System Banner](https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/banner.png)
 
 <br/>
 
