@@ -144,7 +144,8 @@ VS Code / PyCharm     — Development environment
 
 ## 🖼️ Screenshots
 
-(screenshort.png)
+![Multi-Agent Swarm System ](https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/banner.png)
+
 
 ---
 
@@ -186,7 +187,8 @@ New Task Submitted
        (Triggers unblock of dependent tasks)
 ```
 
-screenshort2.png)
+![Multi-Agent Swarm System ](https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/banner.png)
+
 
 **Step-by-step:**
 
