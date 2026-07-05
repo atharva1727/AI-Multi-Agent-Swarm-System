@@ -3,8 +3,6 @@ AI-powered multi-agent workflow automation system using Kanban-based task orches
 
 <div align="center">
 
-<div align="center">
-
 ![Multi-Agent Swarm System Banner](mas_banner.png)
 
 <br/>
@@ -13,13 +11,8 @@ AI-powered multi-agent workflow automation system using Kanban-based task orches
 
 ### AI-Powered Multi-Agent Platform for Kanban-Based Task Orchestration
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration-1C3C3C?style=for-the-badge)](https://www.langchain.com/langgraph)
-[![LangChain](https://img.shields.io/badge/LangChain-Framework-00A67E?style=for-the-badge)](https://www.langchain.com/)
-[![Flask](https://img.shields.io/badge/Flask-Backend_API-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](.)
-[![Status](https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge)](.)
-[![Made by](https://img.shields.io/badge/Made_by-Atharva_Shevate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-shevate-082b602a7)
+**Built with:** Python 3.10+ · LangGraph (Agent Orchestration) · LangChain (Framework) · Flask (Backend API)
+**License:** MIT &nbsp;|&nbsp; **Status:** Active &nbsp;|&nbsp; **Made by:** Atharva Shevate
 
 *A Python-powered multi-agent system that assigns tasks, tracks dependencies, and executes workflows on a Kanban board — turning manual task management into a fully autonomous AI pipeline.*
 
@@ -59,7 +52,7 @@ Progress is reflected in real time on a **Kanban board** — giving full visibil
 
 ## ⚙️ Agent Architecture
 
-![Agent Architecture & Workflow Pipeline](mas_architecture.png)
+*(Architecture diagram: a central LangGraph Orchestrator coordinates four specialist agents — Task Analysis, Dependency Checker, Task Assignment, and Execution — each connected to a shared state graph.)*
 
 The system deploys **four specialist agents** coordinated by a central **LangGraph Orchestrator**. Each agent is stateless on its own — all shared context lives in the LangGraph state graph, which acts as the single source of truth for the entire workflow.
 
@@ -106,7 +99,7 @@ The backbone of the entire system:
 
 ## 🛠️ Tech Stack
 
-![Tech Stack & Kanban Flow](mas_techstack.png)
+*(Tech stack overview: core framework, AI/agent layer, frontend visualization, and developer tooling used across the project.)*
 
 ### Core Framework
 
@@ -151,12 +144,7 @@ VS Code / PyCharm     — Development environment
 
 ## 🖼️ Screenshots
 
-<p align="center">
-  <img src="https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/kanban-board.png" width="48%" alt="Kanban Board"/>
-  <img src="https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/workflow-execution.png" width="48%" alt="Workflow Execution"/>
-</p>
-
-<p align="center"><i>Live Kanban board with agent-assigned tasks &nbsp;·&nbsp; Automated workflow execution pipeline</i></p>
+*(Screenshots: the live Kanban board showing agent-assigned tasks across columns, and the automated workflow execution pipeline in progress.)*
 
 ---
 
@@ -275,8 +263,7 @@ pip (Python package manager)
 ### Installation
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/atharva1727/AI-Multi-Agent-Swarm-System.git
+# 1. Clone the repository (search GitHub for "AI-Multi-Agent-Swarm-System" by Atharva Shevate)
 cd AI-Multi-Agent-Swarm-System
 
 # 2. Create & activate a virtual environment
@@ -403,10 +390,10 @@ __pycache__/
 | **Role** | AI Engineer Intern @ IOTIOT.IN, Pune |
 | **University** | Vishwakarma University — B.Tech Computer Engineering 2026 |
 | **Specialization** | GenAI · LLMs · RAG · Multi-Agent Systems · Computer Vision |
-| **Email** | [atharvshevate3@gmail.com](mailto:atharvshevate3@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/atharva-shevate-082b602a7](https://linkedin.com/in/atharva-shevate-082b602a7) |
-| **GitHub** | [github.com/atharva1727](https://github.com/atharva1727) |
-| **Portfolio** | [atharva1727.github.io/Atharva--Portfolio](https://atharva1727.github.io/Atharva--Portfolio) |
+| **Email** | atharvshevate3@gmail.com |
+| **LinkedIn** | Atharva Shevate — search "atharva-shevate" on LinkedIn |
+| **GitHub** | atharva1727 |
+| **Portfolio** | Atharva Shevate's personal portfolio site |
 
 </div>
 
@@ -414,7 +401,7 @@ __pycache__/
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the LICENSE file included in the repository for full details.
 
 ---
 
@@ -422,10 +409,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ⭐ **If you found this useful, consider starring the repo!**
 
-[![More Projects](https://img.shields.io/badge/More_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva1727)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atharva1727.github.io/Atharva--Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-shevate-082b602a7)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvshevate3@gmail.com)
+*More projects, portfolio work, and contact details are available directly from Atharva Shevate — GitHub: atharva1727 &nbsp;|&nbsp; Email: atharvshevate3@gmail.com*
 
 *"Building autonomous systems where agents collaborate like a team — independently smart, collectively powerful."* 🤖
 
