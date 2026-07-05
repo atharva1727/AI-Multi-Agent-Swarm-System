@@ -144,7 +144,7 @@ VS Code / PyCharm     — Development environment
 
 ## 🖼️ Screenshots
 
-![Multi-Agent Swarm System ](https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/banner.png)
+![Multi-Agent Swarm System ](https://github.com/atharva1727/AI-Multi-Agent-Swarm-System/blob/main/kanban-board.png)
 
 
 ---
