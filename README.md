@@ -144,7 +144,7 @@ VS Code / PyCharm     — Development environment
 
 ## 🖼️ Screenshots
 
-*(Screenshots: the live Kanban board showing agent-assigned tasks across columns, and the automated workflow execution pipeline in progress.)*
+(screenshort.png)
 
 ---
 
@@ -185,6 +185,8 @@ New Task Submitted
        ✅  Task Complete
        (Triggers unblock of dependent tasks)
 ```
+
+screenshort2.png)
 
 **Step-by-step:**
 
